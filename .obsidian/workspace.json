@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f071fec12270f62f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5349f40bd8c89bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "291dc9cd2e82ca8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react숙련/hook/useMemo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ced33fc568962be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5e3405bc99824f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d141b1c5100c25c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "77c2c874a1dfdc7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a162312e25f38e9a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2584355634aa5a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9440ad52e4a15cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6edbd002525e4bc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "react숙련/hook/useMemo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14a095cc511fed1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "react숙련/hook/useMemo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed43414a2e206a13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df68f8c5bcbb1cf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "react숙련/hook/useMemo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "291dc9cd2e82ca8f",
+  "lastOpenFiles": [
+    "react숙련/hook/useCallback.md",
+    "react숙련/hook/React.memo.md",
+    "react숙련/hook/useContext.md",
+    "react숙련/hook/useRef.md",
+    "react숙련/hook/useEffect.md",
+    "react숙련/hook/useState.md",
+    "react숙련/styled-components/css in js 와 전역스타일링.md",
+    "react숙련/hook/useMemo.md",
+    "Pasted image 20230211033618.png",
+    "Pasted image 20230211033534.png"
+  ]
+}
