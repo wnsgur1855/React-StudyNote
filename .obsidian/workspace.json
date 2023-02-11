@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "291dc9cd2e82ca8f",
+            "id": "deb3ed8f9b33a82e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react숙련/hook/useMemo.md",
+                "file": "react숙련/redux/Redux Payload.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "118874bd9834b1b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react숙련/redux/Ducks Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a480bbddef4addc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react숙련/redux/Ducks Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4953a56246fc8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react숙련/hook/useEffect.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b2584355634aa5a8",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react숙련/hook/useMemo.md",
+                "file": "react숙련/redux/Ducks Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react숙련/hook/useMemo.md",
+                "file": "react숙련/redux/Ducks Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react숙련/hook/useMemo.md"
+                "file": "react숙련/redux/Ducks Pattern.md"
               }
             }
           }
@@ -146,17 +183,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "291dc9cd2e82ca8f",
+  "active": "a480bbddef4addc4",
   "lastOpenFiles": [
-    "react숙련/hook/useCallback.md",
-    "react숙련/hook/React.memo.md",
-    "react숙련/hook/useContext.md",
-    "react숙련/hook/useRef.md",
+    "react숙련/redux/useDepatch.md",
+    "react숙련/redux/Redux Payload.md",
+    "react숙련/redux/Ducks Pattern.md",
+    "react숙련/redux/APP컴포넌트가 store을 사용할 준비.md",
     "react숙련/hook/useEffect.md",
+    "react숙련/redux/store생성 후 (useSelector).md",
+    "react숙련/redux/Redux(상태관리 ✅라이브러리).md",
     "react숙련/hook/useState.md",
-    "react숙련/styled-components/css in js 와 전역스타일링.md",
-    "react숙련/hook/useMemo.md",
-    "Pasted image 20230211033618.png",
-    "Pasted image 20230211033534.png"
+    "react숙련/hook/LifeCycle & DOM과 VirturDom.md",
+    "react숙련/hook/useMemo.md"
   ]
 }
