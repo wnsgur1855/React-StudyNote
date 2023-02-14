@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87eef889f3a7497c",
+        "id": "dba322f98f48da7c",
         "type": "tabs",
         "children": [
           {
-            "id": "16de2c2af2492ed6",
+            "id": "09b051fbb11e6928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react숙련/map & jsonplaceholder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a8071d58fb0a0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react숙련/map & jsonplaceholder.md",
+                "file": "react숙련/react router dom/Router2(동적 라우팅).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react숙련/map & jsonplaceholder.md",
+                "file": "react숙련/react router dom/Router2(동적 라우팅).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react숙련/map & jsonplaceholder.md",
+                "file": "react숙련/react router dom/Router2(동적 라우팅).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react숙련/map & jsonplaceholder.md"
+                "file": "react숙련/react router dom/Router2(동적 라우팅).md"
               }
             }
+          },
+          {
+            "id": "d9cb24b6de25f9e5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,17 +155,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "16de2c2af2492ed6",
+  "active": "09b051fbb11e6928",
   "lastOpenFiles": [
-    "react숙련/hook/useState.md",
     "react숙련/JSON과 비동기통신 실습.md",
-    "react숙련/map & jsonplaceholder.md",
-    "react숙련/hook/useEffect.md",
-    "react숙련/hook/LifeCycle & DOM과 VirturDom.md",
-    "react숙련/redux/Redux(상태관리 ✅라이브러리).md",
     "react숙련/redux/APP컴포넌트가 store을 사용할 준비.md",
-    "react숙련/redux/store생성 후 (useSelector).md",
-    "react숙련/redux/useDepatch.md",
-    "react숙련/redux/Ducks Pattern.md"
+    "react숙련/hook/LifeCycle & DOM과 VirturDom.md",
+    "react숙련/map & jsonplaceholder.md",
+    "react숙련/hook/useMemo.md",
+    "react숙련/hook/useCallback.md",
+    "react숙련/hook/React.memo.md",
+    "Untitled Kanban.md",
+    "react숙련/hook/useState.md",
+    "react숙련/hook/useEffect.md"
   ]
 }

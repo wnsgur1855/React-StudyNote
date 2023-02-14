@@ -1,10 +1,11 @@
+# useState
 - 가장 기본적인 hook이다
 - 함수형 컴포넌트 내에서 가변적인 상태를 갖게 한다.
 - 사용법 : const [state, setState] = useState(초기값)
 - 사용법 해석 :  useState가 return하는 값이 배열이다. 그 배열을 staet, setState로 구조분해할당으로 받은 것 분이다. 배열의 return값은 초기값으로 지정해놓은 변수(state)가 있고 그 state를 변경(컨트롤)할 수 있는 setState. 이렇게 두 개의 배열로 이루어져있다.
 
 #useState의기존방식
-```js
+```jsx
  const [number, setNumber] = useState(0);
   const buttonClick = () => {
     setNumber(number + 1)
@@ -16,10 +17,10 @@
   );
 ```
 
+## 함수형 업데이트
 
-# 함수형 업데이트
 함수의 인자부분()에는 현재 state를 가져올 수 있다(여기선 currentNumber)
-```js
+```jsx
   const [number, setNumber] = useState(0);
   return (
     <>
@@ -34,10 +35,10 @@
   );
 ```
 
-```js
+```jsx
 onClick={() => {setNumber((currentNumber) => currentNumber+1)}}
 
-<<return문이 한 줄일경우 이렇게 줄여서 쓸 수 있다>>
+{/*return문이 한 줄일경우 이렇게 줄여서 쓸 수 있다*/}
 ```
 ✅✅차이점은 뭘까?
 일반 업데이트 방식 :  [배치성으로 처리된다]]
@@ -63,3 +64,5 @@ onClick={() => {setNumber((currentNumber) => currentNumber+1)}}
 
 ❓❓그럼 리액트 환경에서 "[배치성]"을 쓰는 이유는?
 ->렌더링이 잦다: 성능에 이슈가 있다. 그러기때문에 불필요한 렌더링을 피하기 위해 한꺼번에 요청사항을 모아서 한 번만 처리하는 게 렌더링을 줄일 수 있는 방법이기에 리액트에서 사용함
+
+
