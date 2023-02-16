@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6e5e32b53469b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react숙련/redux/리덕스 흐름 이해하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react숙련/styled-components/css in js 와 전역스타일링.md",
+                "file": "react숙련/redux/리덕스 흐름 이해하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react숙련/styled-components/css in js 와 전역스타일링.md",
+                "file": "react숙련/redux/리덕스 흐름 이해하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react숙련/styled-components/css in js 와 전역스타일링.md"
+                "file": "react숙련/redux/리덕스 흐름 이해하기.md"
               }
             }
           },
@@ -155,8 +168,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "09b051fbb11e6928",
+  "active": "b6e5e32b53469b5e",
   "lastOpenFiles": [
+    "react숙련/styled-components/css in js 와 전역스타일링.md",
     "react숙련/redux/Redux 생성 순서 복사본.md",
     "Untitled Kanban.md",
     "react숙련/hook/useMemo.md",
@@ -165,7 +179,6 @@
     "react숙련/hook/useContext.md",
     "react숙련/hook/useRef.md",
     "react숙련/hook/useEffect.md",
-    "react숙련/hook/useState.md",
-    "react숙련/react router dom/Router2(동적 라우팅).md"
+    "react숙련/hook/useState.md"
   ]
 }
