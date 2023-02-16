@@ -1,3 +1,5 @@
+# useContext
+
 ✅전역적으로  사용되는 어떠한 것을 표현할 때 context란 말을 쓴다
 
 - # createContext 
