@@ -1,6 +1,9 @@
-1. reducer함수를 export default한다
-2. Action creator함수들을 export한다.
-3. Action type은 app/reducer/Action_type형태로 작성한다.
+# Ducks Pattern
+휴먼에러를 방지하기 위해 덕스패턴을 쓴다
+
+3. reducer함수를 export default한다
+4. Action creator함수들을 export한다.
+5. Action type은 app/reducer/Action_type형태로 작성한다.
 ==> [결론은 모듈 파일 1개에 Action Type, Action Creator, Reducer가 모두 존재하는 작성방식]
 ```js
 ✅action value
