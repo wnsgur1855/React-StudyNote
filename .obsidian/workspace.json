@@ -8,24 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09b051fbb11e6928",
+            "id": "b6e5e32b53469b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react숙련/styled-components/css in js 와 전역스타일링.md",
+                "file": "react심화/비동기 통신 - axios (get, post, delete, fetch).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b6e5e32b53469b5e",
+            "id": "a687188a46c888ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react숙련/redux/리덕스 흐름 이해하기.md",
+                "file": "react심화/axios interceptor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fd90446d103445f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react심화/axios interceptor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "532569bd96000757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react심화/jason-server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49d54a836d110eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react심화/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b954d3a07a1245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react숙련/hook/useEffect.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react숙련/redux/리덕스 흐름 이해하기.md",
+                "file": "react심화/axios interceptor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react숙련/redux/리덕스 흐름 이해하기.md",
+                "file": "react심화/axios interceptor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react숙련/redux/리덕스 흐름 이해하기.md"
+                "file": "react심화/axios interceptor.md"
               }
             }
           },
@@ -168,17 +216,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b6e5e32b53469b5e",
+  "active": "a687188a46c888ea",
   "lastOpenFiles": [
-    "react숙련/styled-components/css in js 와 전역스타일링.md",
-    "react숙련/redux/Redux 생성 순서 복사본.md",
-    "Untitled Kanban.md",
-    "react숙련/hook/useMemo.md",
-    "react숙련/hook/useCallback.md",
-    "react숙련/hook/React.memo.md",
-    "react숙련/hook/useContext.md",
-    "react숙련/hook/useRef.md",
+    "react심화/비동기 통신 - axios (get, post, delete, fetch).md",
+    "react심화/HTTP.md",
+    "react심화/jason-server.md",
+    "react심화/Redux Toolkit.md",
+    "react심화/axios interceptor.md",
+    "react심화/Fetch.md",
     "react숙련/hook/useEffect.md",
-    "react숙련/hook/useState.md"
+    "react숙련/redux/Redux(상태관리 ✅라이브러리).md",
+    "react숙련/redux/store생성 후 (useSelector).md",
+    "react숙련/redux/useDepatch.md"
   ]
 }
