@@ -59,3 +59,5 @@ useEffect(() => {
 useEffect(function() {})  //이런 형태
 ```
 
+![](https://i.imgur.com/8xYzvDg.png)
+
