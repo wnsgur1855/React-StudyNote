@@ -105,8 +105,13 @@ instance.interceptors.response.use(
 인스턴스에는 타이머 속성이 있다.
 [timeout속성 : 우리가 요청을 보낼 때, 몇 초 이상 기다리게 하면 오류 낼 거야(기준: 밀리세컨)]
 ```jsx
-instance에 timeout:1, -->0.001초니까 모든 요청이 실패하게끔 돈다(서버가 응답주기전 
+const instanace = axios.create({
+	baseURL: ~~~~
+	timeout : 1,
+})
+->instance에 timeout:1, -->0.001초니까 모든 요청이 실패하게끔 돈다(서버가 응답주기전 
 												               무조 건 실패)
+												   
 ```
 
 ![](https://i.imgur.com/T4THSl6.png)
