@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react심화/Thunk.md",
+                "file": "react심화/비동기 통신 - axios (get, post, delete, fetch).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react심화/Thunk.md",
+                "file": "react심화/비동기 통신 - axios (get, post, delete, fetch).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react심화/Thunk.md",
+                "file": "react심화/비동기 통신 - axios (get, post, delete, fetch).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react심화/Thunk.md"
+                "file": "react심화/비동기 통신 - axios (get, post, delete, fetch).md"
               }
             }
           },
@@ -157,14 +157,14 @@
   },
   "active": "b6e5e32b53469b5e",
   "lastOpenFiles": [
+    "react심화/Redux Toolkit.md",
+    "react심화/jason-server.md",
+    "react심화/HTTP.md",
+    "react심화/Thunk.md",
     "react심화/비동기 통신 - axios (get, post, delete, fetch).md",
     "react심화/axios interceptor.md",
-    "react심화/Thunk.md",
-    "react심화/HTTP.md",
     "react심화/Fetch.md",
-    "react심화/jason-server.md",
     "react숙련/hook/useState.md",
-    "react심화/Redux Toolkit.md",
     "react심화/커스텀 훅.md",
     "react숙련/hook/useEffect.md"
   ]
